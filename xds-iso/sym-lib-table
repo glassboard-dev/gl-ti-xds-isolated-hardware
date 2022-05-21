@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "xds-iso")(type "KiCad")(uri "/home/stephen/git/glasslabs/gl-ti-xds-isolated-hardware/xds-iso/xds-iso.kicad_sym")(options "")(descr ""))
+)

@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "xds-iso")(type "KiCad")(uri "${KIPRJMOD}/xds-iso.pretty")(options "")(descr ""))
+)
