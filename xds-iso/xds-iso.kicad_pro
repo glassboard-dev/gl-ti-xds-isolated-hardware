@@ -45,7 +45,7 @@
         "silk_text_upright": false,
         "zones": {
           "45_degree_only": false,
-          "min_clearance": 0.508
+          "min_clearance": 0.0
         }
       },
       "diff_pair_dimensions": [
@@ -57,7 +57,23 @@
       ],
       "drc_exclusions": [
         "silk_over_copper|101500000|101595000|a48ceca9-227a-436e-8ed9-5f3b61cbf0f9|c0520a89-1ce8-4759-a56c-c54f903f83db",
-        "silk_over_copper|101500000|92405000|a48ceca9-227a-436e-8ed9-5f3b61cbf0f9|7a86bf7d-69ff-410f-8ee7-d09db8d8408f"
+        "silk_over_copper|101500000|87655000|a48ceca9-227a-436e-8ed9-5f3b61cbf0f9|7a86bf7d-69ff-410f-8ee7-d09db8d8408f",
+        "silk_over_copper|101500000|92405000|a48ceca9-227a-436e-8ed9-5f3b61cbf0f9|7a86bf7d-69ff-410f-8ee7-d09db8d8408f",
+        "silk_over_copper|101500000|96845000|a48ceca9-227a-436e-8ed9-5f3b61cbf0f9|c0520a89-1ce8-4759-a56c-c54f903f83db",
+        "silk_over_copper|118727500|83200000|2fb7c72d-0d63-4df2-879e-15ff023fd1c7|f73e1218-235c-459b-ba0f-fb94c818f020",
+        "silk_over_copper|118731402|96276965|fb9b0b15-c800-4199-a9df-1e999ba6a70c|f73e1218-235c-459b-ba0f-fb94c818f020",
+        "silk_over_copper|119300000|82640000|bf14984d-f9cd-45a2-a01c-a06d3ed0e284|b8c3b962-07e0-448f-b262-3034538a3e93",
+        "silk_over_copper|119300000|96860000|88071c39-7478-4d42-a0c9-ea227d61f16f|375d226d-7c58-4cd9-8321-87de9ab882b5",
+        "silk_over_copper|132377746|96856991|55baceed-f7d9-4d73-84e4-b06c780623b7|375d226d-7c58-4cd9-8321-87de9ab882b5",
+        "silk_over_copper|132396854|82639943|cebe7807-269a-438d-9ce8-7474a1e8d4b1|b8c3b962-07e0-448f-b262-3034538a3e93",
+        "silk_over_copper|132400000|82640000|cebe7807-269a-438d-9ce8-7474a1e8d4b1|b8c3b962-07e0-448f-b262-3034538a3e93",
+        "silk_over_copper|132400000|96860000|55baceed-f7d9-4d73-84e4-b06c780623b7|375d226d-7c58-4cd9-8321-87de9ab882b5",
+        "silk_over_copper|132947421|83200715|346289f5-7fed-42d0-915e-ef27086b0782|1b63c404-4d95-4443-af9b-ab50432758bc",
+        "silk_over_copper|132947500|83200000|346289f5-7fed-42d0-915e-ef27086b0782|1b63c404-4d95-4443-af9b-ab50432758bc",
+        "silk_over_copper|132947500|96300000|2aa21e55-25c6-4cf4-bd8a-94f164963f6d|1b63c404-4d95-4443-af9b-ab50432758bc",
+        "silk_over_copper|132947500|96300000|2adf9a42-71f2-422d-9815-628bfa0df6ad|1b63c404-4d95-4443-af9b-ab50432758bc",
+        "silk_over_copper|132947585|96296826|2aa21e55-25c6-4cf4-bd8a-94f164963f6d|1b63c404-4d95-4443-af9b-ab50432758bc",
+        "silk_over_copper|134238199|96297472|2adf9a42-71f2-422d-9815-628bfa0df6ad|1b63c404-4d95-4443-af9b-ab50432758bc"
       ],
       "meta": {
         "version": 2
@@ -450,7 +466,7 @@
       "workbook_filename": ""
     },
     "page_layout_descr_file": "",
-    "plot_directory": "",
+    "plot_directory": "../../../../Desktop/",
     "spice_adjust_passive_values": false,
     "spice_external_command": "spice \"%I\"",
     "subpart_first_id": 65,
