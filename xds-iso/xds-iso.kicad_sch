@@ -5438,8 +5438,8 @@
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 39dfe24b-4a86-4229-8b5c-2960b9bae886)
     (property "Reference" "U1" (id 0) (at 55.88 101.6 0))
-    (property "Value" "MCP1703A-3002_SOT223" (id 1) (at 55.88 104.14 0))
-    (property "Footprint" "Package_TO_SOT_SMD:SOT-223-3_TabPin2" (id 2) (at 55.88 104.14 0)
+    (property "Value" "" (id 1) (at 55.88 104.14 0))
+    (property "Footprint" "" (id 2) (at 55.88 104.14 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "http://ww1.microchip.com/downloads/en/DeviceDoc/20005122B.pdf" (id 3) (at 55.88 110.49 0)
@@ -7107,8 +7107,8 @@
     (in_bom yes) (on_board yes)
     (uuid d16f2faa-881f-401e-851c-4725777d416e)
     (property "Reference" "R29" (id 0) (at 332.74 93.98 90))
-    (property "Value" "100R" (id 1) (at 330.2 99.06 90))
-    (property "Footprint" "Resistor_SMD:R_0402_1005Metric" (id 2) (at 332.74 96.52 0)
+    (property "Value" "" (id 1) (at 330.2 99.06 90))
+    (property "Footprint" "" (id 2) (at 332.74 96.52 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 332.74 96.52 0)
@@ -8154,7 +8154,7 @@
       (reference "R28") (unit 1) (value "1K") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
     (path "/d16f2faa-881f-401e-851c-4725777d416e"
-      (reference "R29") (unit 1) (value "100R") (footprint "Resistor_SMD:R_0402_1005Metric")
+      (reference "R29") (unit 1) (value "1k") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
     (path "/a6ae6ce8-c863-49e5-a79c-9f6fda71b784"
       (reference "R30") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0402_1005Metric")
@@ -8172,7 +8172,7 @@
       (reference "SW2") (unit 1) (value "EVQPUD") (footprint "Button_Switch_SMD:Panasonic_EVQPUM_EVQPUD")
     )
     (path "/39dfe24b-4a86-4229-8b5c-2960b9bae886"
-      (reference "U1") (unit 1) (value "MCP1703A-3002_SOT223") (footprint "Package_TO_SOT_SMD:SOT-223-3_TabPin2")
+      (reference "U1") (unit 1) (value "AP7361EA-33E-13") (footprint "Package_TO_SOT_SMD:SOT-223-3_TabPin2")
     )
     (path "/d1d62dd8-ab18-4589-8a16-4840d0e3a2b2"
       (reference "U2") (unit 1) (value "MSP432E401Y") (footprint "Package_QFP:LQFP-128_14x14mm_P0.4mm")
